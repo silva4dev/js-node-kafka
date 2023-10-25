@@ -1,0 +1,6 @@
+@baseUrl = http://localhost:3333
+
+# @name certifications
+POST {{baseUrl}}/certifications
+Content-Type: application/json
+
